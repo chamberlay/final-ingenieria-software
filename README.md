@@ -17,3 +17,11 @@ Este repositorio fue creado para la resolución del examen final de la materia I
 - Git
 - GitHub
 - Markdown
+
+## ¿Para qué sirven los commits?
+
+Los commits sirven para guardar los cambios realizados en un proyecto, permitiendo mantener un historial de versiones y recuperar estados anteriores si es necesario.
+
+## ¿Qué ventaja tiene GitHub para un equipo de desarrollo?
+
+GitHub permite alojar repositorios en línea y facilita el trabajo colaborativo, permitiendo que varios desarrolladores trabajen sobre un mismo proyecto y compartan los cambios de manera organizada.
