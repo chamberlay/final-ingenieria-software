@@ -25,3 +25,25 @@ Los commits sirven para guardar los cambios realizados en un proyecto, permitien
 ## ¿Qué ventaja tiene GitHub para un equipo de desarrollo?
 
 GitHub permite alojar repositorios en línea y facilita el trabajo colaborativo, permitiendo que varios desarrolladores trabajen sobre un mismo proyecto y compartan los cambios de manera organizada.
+
+## Capturas de Pantalla
+
+### Repositorio creado
+
+![Repositorio creado](screenshots/repositorioCreado.png)
+
+### README completo
+
+![README completo](screenshots/readmeCompleto.png)
+
+### Historial de commits
+
+![Historial de commits](screenshots/historialCommits.png)
+
+### Repositorio publicado en GitHub
+
+![Repositorio publicado](screenshots/repositorioPublicado.png)
+
+### Creacion y modificacion del README 
+
+![Repositorio publicado](screenshots/creacionModificacion.png)
